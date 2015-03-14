@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "gulp": "^3.7.0",
+    "gulp-concat": "^2.2.0",
+  }
+}
